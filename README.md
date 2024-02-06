@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Containerization of MERN application.<br><br>👯 I’m looking to collaborate on:<br>Full-stack projects & LangChain Projects.<br><br>🌱 I’m currently learning:<br>Docker and GraphQL.<br><br>💬 Ask me about:<br>JavaScript, TypeScript, React, Node.js, Azure, and any general software development questions.<br><br>⚡ Fun fact:<br>I love coding & playing basketball.
+🔭 I’m currently working on:<br>Containerization of MERN application and exploring AI [LangChain, Open Source LLMs]<br><br>👯 I’m looking to collaborate on:<br>Full-stack projects & LangChain Projects.<br><br>🌱 I’m currently learning:<br>Docker and GraphQL.<br><br>💬 Ask me about:<br>JavaScript, TypeScript, React, Node.js, Azure, and any general software development questions.<br><br>⚡ Fun fact:<br>I love coding & playing basketball.
 
 
 ## 🌐 Socials:
